@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi 👋 I'm Ainara
+
+I am a creative and innovative data analyst with over four years of experience in digital marketing and communications. With a background in design and technology-focused companies, I have developed a unique approach to problem solving and continuous improvement in my work. 
+
+My experience includes a wide range of data analytics, business intelligence and data science tools. I am now focused on moving towards data science and advanced data visualization training. 
+
+If you want to meet me, in my free time I will probably be in some museum or art gallery near Madrid drawing and enjoying art.
+
+
 
 <!--
 **ainaraguerraf/ainaraguerraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

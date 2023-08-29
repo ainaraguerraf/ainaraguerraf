@@ -34,7 +34,7 @@
 
 | Project  | Industry | What is it about |
 | ------------- | ------------- | ------------- |
-| [Mood Travel Spain](https://github.com/ainaraguerraf/final-project-ironhack-data)  | 🧳 Tourism        |   A personalised  recommender for tourists in Spain. Results tailored to their unique preferences using machine learning |
+| [Mood Travel Spain](https://github.com/ainaraguerraf/final-project-ironhack-data)  | 🧳 Tourism        |   A personalised  recommender for tourists in Spain. Results tailored to their unique preferences using machine learning. |
 | [Best gas predictor](https://github.com/ainaraguerraf/technical-challenge-for-cobify) | 🚗 Transport      |   Cobify wants to know which gas is best for their cars, so I built a recommender for their employers to use based on how their next trip is going to be. Don't forget to check the [dashboard](https://github.com/ainaraguerraf/technical-challenge-for-cobify/blob/master/visualizations_conclusions.png). |
 | [Predict selling prices of houses](https://github.com/ainaraguerraf/Mid-project-machine-learning) | 🏠 Real State     | The company wanted to build a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated. |
 | [Music recommender](https://github.com/ainaraguerraf/Data_Analytics_bootcamp_labs/tree/main/UNIT%208%20-%20HTML%2C%20WEBSCRAPPING%2C%20APIS%2C%20CLUSTERING/5.%20lab-unsupervised-learning-intro) | 🎵 Music    | After using Spotify's API to build a dataset with songs' features and enriching this dataset with unsupervised machine learning models, I created a recommender to search for past hits based on current hits you like. |
